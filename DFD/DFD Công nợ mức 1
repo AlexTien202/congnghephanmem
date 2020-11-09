@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T09:34:06.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="2mRfmACmO1LDlAYmp781" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T09:56:14.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="sUzpsBBox2z_QMuCCETG" version="13.9.2" type="github">
   <diagram id="5KkIO3I_gU7wPMufMq2Y" name="Page-1">
     <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,6 +14,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="315" y="650" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VeraZW-VcEsGW6qJvRzG-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VeraZW-VcEsGW6qJvRzG-32" target="VeraZW-VcEsGW6qJvRzG-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VeraZW-VcEsGW6qJvRzG-32" value="8.2" style="swimlane;html=1;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="240" y="440" width="150" height="80" as="geometry" />
@@ -74,18 +77,10 @@
         <mxCell id="VeraZW-VcEsGW6qJvRzG-49" value="Danh sách công nợ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="255" width="120" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="VeraZW-VcEsGW6qJvRzG-50" value="Công nợ" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="680" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VeraZW-VcEsGW6qJvRzG-51" value="Công nợ mới" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="710" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VeraZW-VcEsGW6qJvRzG-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VeraZW-VcEsGW6qJvRzG-50" target="VeraZW-VcEsGW6qJvRzG-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VeraZW-VcEsGW6qJvRzG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VeraZW-VcEsGW6qJvRzG-45">
+        <mxCell id="VeraZW-VcEsGW6qJvRzG-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="698" as="targetPoint" />
+            <mxPoint x="70" y="710" as="sourcePoint" />
+            <mxPoint x="70" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VeraZW-VcEsGW6qJvRzG-54" value="QL Kho" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
