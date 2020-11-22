@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net" modified="2020-11-22T11:22:38.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 Edg/87.0.664.41" etag="e79R6EJaGD1TwKeVC3j9" version="13.10.0" type="github">
+  <diagram id="K-029d51O2o58IG1OYKo" name="Page-1">
+    <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6n6BGj_369SdgWeO1FyQ-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6n6BGj_369SdgWeO1FyQ-6" target="6n6BGj_369SdgWeO1FyQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6n6BGj_369SdgWeO1FyQ-6" value="Quản lý" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6n6BGj_369SdgWeO1FyQ-7" value="Cập nhật công nợ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6n6BGj_369SdgWeO1FyQ-9" value="Tạo phiếu thanh toán nợ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6n6BGj_369SdgWeO1FyQ-10" value="Xem danh sách công nợ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6n6BGj_369SdgWeO1FyQ-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6n6BGj_369SdgWeO1FyQ-14" target="6n6BGj_369SdgWeO1FyQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6n6BGj_369SdgWeO1FyQ-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6n6BGj_369SdgWeO1FyQ-14" target="6n6BGj_369SdgWeO1FyQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6n6BGj_369SdgWeO1FyQ-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="6n6BGj_369SdgWeO1FyQ-14" target="6n6BGj_369SdgWeO1FyQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6n6BGj_369SdgWeO1FyQ-14" value="Công nợ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6n6BGj_369SdgWeO1FyQ-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="410" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="6n6BGj_369SdgWeO1FyQ-17" value="" style="endArrow=none;html=1;fontSize=15;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="660" as="sourcePoint" />
+            <mxPoint x="650" y="230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
