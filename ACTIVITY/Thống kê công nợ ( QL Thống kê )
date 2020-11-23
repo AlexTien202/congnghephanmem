@@ -1,1 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T17:11:34.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.1" etag="SdhTIjLfvuo8WAN6Gn1g" type="github"><diagram id="s_82CCJeGfH9QlP-fivG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-23T17:17:39.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="zCHUA4y1Bqdaaoe-6yyh" version="13.10.1" type="github">
+  <diagram id="s_82CCJeGfH9QlP-fivG" name="Page-1">
+    <mxGraphModel dx="866" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="byZb_fR-f4hXRd2N0xCM-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byZb_fR-f4hXRd2N0xCM-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="byZb_fR-f4hXRd2N0xCM-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="70" as="targetPoint" />
+            <mxPoint x="425" y="40" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="byZb_fR-f4hXRd2N0xCM-3" value="Thống kê" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="365" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="byZb_fR-f4hXRd2N0xCM-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byZb_fR-f4hXRd2N0xCM-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="160" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="byZb_fR-f4hXRd2N0xCM-5" value="Công nợ" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="365" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="byZb_fR-f4hXRd2N0xCM-6" value="Chọn ngày" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="365" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="byZb_fR-f4hXRd2N0xCM-7" value="Hệ thống xuất ds công nợ" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="365" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="byZb_fR-f4hXRd2N0xCM-8" value="Trở về" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="365" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="byZb_fR-f4hXRd2N0xCM-9" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="480" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byZb_fR-f4hXRd2N0xCM-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="240" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="425" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="byZb_fR-f4hXRd2N0xCM-11" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="320" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="424" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="byZb_fR-f4hXRd2N0xCM-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="480" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="425" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="byZb_fR-f4hXRd2N0xCM-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="400" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="424" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
