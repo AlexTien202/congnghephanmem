@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T16:25:22.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 Edg/87.0.664.41" etag="Lfhm6eNKdHJLLzYZtzYT" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T16:25:56.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 Edg/87.0.664.41" etag="lGN2KlFQTEBU8IRvjlNW" version="13.10.0" type="github">
   <diagram id="vkeqgFge0ub3YNL0TDXX" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -145,10 +145,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4enNXI5gD-oPBXjxF3D-1" value="lưu vào csdl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I4enNXI5gD-oPBXjxF3D-1" value="lưu vào csdl" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="840" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I4enNXI5gD-oPBXjxF3D-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="1">
+        <mxCell id="I4enNXI5gD-oPBXjxF3D-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="395" y="1010" as="targetPoint" />
             <mxPoint x="394.5" y="970" as="sourcePoint" />
