@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T10:07:03.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="psa7rO6hG8wcs-Ts_vHk" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T10:07:20.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="HySAmlup_i9Rox35HltJ" version="13.10.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1037" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -281,7 +281,7 @@
           <mxGeometry x="535" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0pxNcGVsvzD9zgSRN0-3-6" value="Đạt chất lượng hay không?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="655" width="40" height="20" as="geometry" />
+          <mxGeometry x="470" y="655" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0pxNcGVsvzD9zgSRN0-3-7" value="Kiểm tra thông tin nhập vào&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="-10" width="90" height="20" as="geometry" />
