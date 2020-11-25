@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T10:04:05.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ux3L2hnrYQxCL9ngBgpR" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T10:07:03.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="psa7rO6hG8wcs-Ts_vHk" version="13.10.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1037" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -205,7 +205,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-c-wwAFa2-BwszWhMHXV-91" value="[Chỉnh sửa danh mục khác]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="30" width="100" height="20" as="geometry" />
+          <mxGeometry x="280" y="-170" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-c-wwAFa2-BwszWhMHXV-93" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -240,7 +240,7 @@
             <mxPoint x="595" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-c-wwAFa2-BwszWhMHXV-102" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" edge="1">
+        <mxCell id="-c-wwAFa2-BwszWhMHXV-102" value="NO" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="664.17" as="targetPoint" />
             <mxPoint x="610" y="664.17" as="sourcePoint" />
@@ -252,7 +252,7 @@
         <mxCell id="-c-wwAFa2-BwszWhMHXV-104" value="Chọn kiểm tra hàng" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="535" y="550" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-c-wwAFa2-BwszWhMHXV-111" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF1F62;" parent="1" source="-c-wwAFa2-BwszWhMHXV-109" edge="1">
+        <mxCell id="-c-wwAFa2-BwszWhMHXV-111" value="YES" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF1F62;" parent="1" source="-c-wwAFa2-BwszWhMHXV-109" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="595" y="760" as="targetPoint" />
           </mxGeometry>
@@ -279,6 +279,15 @@
         </mxCell>
         <mxCell id="0pxNcGVsvzD9zgSRN0-3-1" value="Đăng nhập" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="535" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0pxNcGVsvzD9zgSRN0-3-6" value="Đạt chất lượng hay không?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="655" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0pxNcGVsvzD9zgSRN0-3-7" value="Kiểm tra thông tin nhập vào&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-10" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0pxNcGVsvzD9zgSRN0-3-8" value="Lưu hay không?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
