@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T05:05:36.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tMU3i6ajNWGtXx8W2yOC" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T06:31:24.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="p3OYnDEcy0MYXzTyxfzm" version="13.10.2" type="github">
   <diagram id="LCCbUbC6lQRFHkbQcXVg" name="Page-1">
     <mxGraphModel dx="1019" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,12 +77,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425" y="780" as="targetPoint" />
             <mxPoint x="466" y="766" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="190" y="780" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BaQJcEeA8kbSTBuXsslT-21" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xmNfAFR373DkFJpHXVEo-1" target="BaQJcEeA8kbSTBuXsslT-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="780" as="targetPoint" />
             <mxPoint x="466" y="768" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="940" y="790" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BaQJcEeA8kbSTBuXsslT-22" value="Hệ thống hiện form thêm hàng" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
@@ -534,6 +540,9 @@
             <mxPoint y="-1" as="offset" />
             <mxPoint x="476.97000000000025" y="1089.9999999999998" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tEJ0bw6iMrutvGqoKNbO-6" value="Actor lựa chọn hình &lt;br&gt;thức trả tiền" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1170" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
