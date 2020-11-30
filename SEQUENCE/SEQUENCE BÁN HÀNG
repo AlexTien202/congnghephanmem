@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T15:34:18.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="P5Uaoj6q0DCVy9lO9etB" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T15:56:13.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="qZj_pIHtQykUAqLQQTC0" version="13.10.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1483" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="MI4pwlcgBcgu2J0CFhnT-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="MI4pwlcgBcgu2J0CFhnT-7" vertex="1">
           <mxGeometry x="10" y="70" width="10" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="7st2Oyt2loJ8FpiNXURL-9" value="HIỂN THỊ TỔNG TIỀN" style="html=1;verticalAlign=bottom;startArrow=classic;endArrow=none;startSize=8;exitX=1.359;exitY=0.702;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;startFill=1;" edge="1" parent="MI4pwlcgBcgu2J0CFhnT-7">
+        <mxCell id="7st2Oyt2loJ8FpiNXURL-9" value="HIỂN THỊ TỔNG TIỀN" style="html=1;verticalAlign=bottom;startArrow=classic;endArrow=none;startSize=8;exitX=1.359;exitY=0.702;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;startFill=1;dashed=1;" edge="1" parent="MI4pwlcgBcgu2J0CFhnT-7">
           <mxGeometry x="0.1063" y="-17" relative="1" as="geometry">
             <mxPoint x="-135.0000000000001" y="540.0000000000001" as="sourcePoint" />
             <mxPoint x="330.9100000000001" y="540.0000000000001" as="targetPoint" />
