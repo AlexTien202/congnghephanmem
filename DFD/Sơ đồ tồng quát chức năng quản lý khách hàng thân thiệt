@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T09:25:22.437Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="UnSS3hsU9YV6-_WScU4r" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T09:27:05.038Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="e-biNvMz8ZRvsVXdDon_" version="13.10.5" type="github">
   <diagram id="ke6Y1WnC_8NJenGVi1zA" name="Page-1">
     <mxGraphModel dx="898" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="10" y="320" width="320" height="330" as="geometry" />
         </mxCell>
         <mxCell id="7E2jr2jRexu1fooCU2Pn-15" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;Xử lý&lt;/h1&gt;&lt;p&gt;1.Kết nối dữ liệu&lt;/p&gt;&lt;p&gt;2.Đọc D3 từ bộ nhớ phụ&lt;/p&gt;&lt;p&gt;3.Nhận thông tin D1 từ người quản lí&lt;/p&gt;&lt;p&gt;4.Kiểm tra &quot;mã khách hàng&quot; có thuộc &quot;danh sách khách hàng&quot; không?&lt;/p&gt;&lt;p&gt;5.Dựa vào số tiền mua hàng của khách tính tổng số tiền của khách hàng&lt;/p&gt;&lt;p&gt;6.Nếu không hợp lí sẽ tới bước 8&lt;/p&gt;&lt;p&gt;7.Lưu xuống bộ nhớ phụ D4&lt;/p&gt;&lt;p&gt;8.Xuất D6 ra màn hình&lt;/p&gt;&lt;p&gt;9Đóng cơ sở dữ liệu&lt;/p&gt;&lt;p&gt;10.Kết thúc&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="344" width="277" height="296" as="geometry" />
+          <mxGeometry x="480" y="344" width="277" height="306" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
