@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T07:18:12.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="kAIm4S-Nu9dBc5xaYYyK" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T07:20:35.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="YMpykhmO3tnTim8zUWta" version="13.10.4" type="github">
   <diagram id="A_67uv1NC1Ys6Gr1p7WP" name="Page-1">
     <mxGraphModel dx="1037" dy="5301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="5PTqfMtiK9BNx3S1Z2yV-7" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="1" source="5PTqfMtiK9BNx3S1Z2yV-8" target="5PTqfMtiK9BNx3S1Z2yV-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XEDGl973lMnnYbXZeljx-48" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF5024;" parent="1" source="5PTqfMtiK9BNx3S1Z2yV-8" target="JnjW-EvSHOtnqTfR7Kk8-13" edge="1">
+        <mxCell id="XEDGl973lMnnYbXZeljx-48" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF5024;" parent="1" source="5PTqfMtiK9BNx3S1Z2yV-8" target="JnjW-EvSHOtnqTfR7Kk8-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5PTqfMtiK9BNx3S1Z2yV-8" value="" style="rhombus;fillColor=#FFFF99;strokeColor=#FF0000;" parent="1" vertex="1">
@@ -48,7 +48,7 @@
         <mxCell id="5PTqfMtiK9BNx3S1Z2yV-21" value="Actor chọn tạo phiếu trả hàng" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="980" y="-60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XEDGl973lMnnYbXZeljx-53" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF5024;" parent="1" source="5PTqfMtiK9BNx3S1Z2yV-22" target="5PTqfMtiK9BNx3S1Z2yV-21" edge="1">
+        <mxCell id="XEDGl973lMnnYbXZeljx-53" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF5024;" parent="1" source="5PTqfMtiK9BNx3S1Z2yV-22" target="5PTqfMtiK9BNx3S1Z2yV-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="-100" />
@@ -129,16 +129,16 @@
         <mxCell id="JnjW-EvSHOtnqTfR7Kk8-22" value="Actor nhập thông tin&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="969" y="-220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XEDGl973lMnnYbXZeljx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF5024;" parent="1" source="XEDGl973lMnnYbXZeljx-1" target="XEDGl973lMnnYbXZeljx-5" edge="1">
+        <mxCell id="XEDGl973lMnnYbXZeljx-37" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF5024;" parent="1" source="XEDGl973lMnnYbXZeljx-1" target="XEDGl973lMnnYbXZeljx-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XEDGl973lMnnYbXZeljx-39" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF5024;" parent="1" source="XEDGl973lMnnYbXZeljx-1" target="JnjW-EvSHOtnqTfR7Kk8-3" edge="1">
+        <mxCell id="XEDGl973lMnnYbXZeljx-39" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF5024;" parent="1" source="XEDGl973lMnnYbXZeljx-1" target="JnjW-EvSHOtnqTfR7Kk8-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XEDGl973lMnnYbXZeljx-1" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="800" y="-640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XEDGl973lMnnYbXZeljx-4" value="tìm thấy mã &#xa;phiếu đặt hàng hay không ?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
+        <mxCell id="XEDGl973lMnnYbXZeljx-4" value="Tìm thấy mã &#xa;phiếu đặt hàng hay không ?" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
           <mxGeometry x="695" y="-626" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XEDGl973lMnnYbXZeljx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FF5024;" parent="1" source="XEDGl973lMnnYbXZeljx-5" target="JnjW-EvSHOtnqTfR7Kk8-2" edge="1">
@@ -161,10 +161,7 @@
         <mxCell id="XEDGl973lMnnYbXZeljx-19" value="Hệ thống hiện ra thông tin đã nhập để actor kiểm tra thông tin" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="757.5" y="80" width="165" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XEDGl973lMnnYbXZeljx-40" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="895" y="-650" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Pl1lt5nAl492x89F6YM_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="Pl1lt5nAl492x89F6YM_-2" target="Pl1lt5nAl492x89F6YM_-6">
+        <mxCell id="Pl1lt5nAl492x89F6YM_-26" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="Pl1lt5nAl492x89F6YM_-2" target="Pl1lt5nAl492x89F6YM_-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="735" y="190" />
@@ -175,11 +172,12 @@
           <mxGeometry x="800" y="170" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pl1lt5nAl492x89F6YM_-4" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="Pl1lt5nAl492x89F6YM_-2" parent="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
+          <mxGeometry x="-0.7143" y="-10" relative="1" as="geometry">
             <mxPoint x="840" y="280" as="targetPoint" />
             <Array as="points">
               <mxPoint x="840" y="280" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pl1lt5nAl492x89F6YM_-5" value="Actor có muốn in phiếu hay không?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -232,7 +230,7 @@
             <mxPoint x="1034" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pl1lt5nAl492x89F6YM_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pl1lt5nAl492x89F6YM_-29" target="Pl1lt5nAl492x89F6YM_-32">
+        <mxCell id="Pl1lt5nAl492x89F6YM_-28" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pl1lt5nAl492x89F6YM_-29" target="Pl1lt5nAl492x89F6YM_-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1130" y="130" />
