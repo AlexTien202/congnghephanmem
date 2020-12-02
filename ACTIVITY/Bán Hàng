@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T08:47:04.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="manjuA5Ex9xl4xo_5MkH" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T08:49:22.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="3e_pP8l2EpHp9ilQvpdy" version="13.10.5" type="github">
   <diagram id="5oStKjvP4BKFpZxuvqM1" name="Page-1">
     <mxGraphModel dx="1038" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
         <mxCell id="AveY9Wu94dkkHliqKaVr-18" value="Actor nhập thông tin sản phẩm vào thanh tìm kiếm" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="385" y="360" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AveY9Wu94dkkHliqKaVr-19" value="Actor thêm KH" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+        <mxCell id="AveY9Wu94dkkHliqKaVr-19" value="Actor quét thẻ thành viên" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="220" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AveY9Wu94dkkHliqKaVr-20" value="Hệ thống in hóa đơn và lưu vào CSDL" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
@@ -64,17 +64,6 @@
         </mxCell>
         <mxCell id="AveY9Wu94dkkHliqKaVr-21" value="Actor chọn Thanh toán" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="220" y="780" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AveY9Wu94dkkHliqKaVr-23" value="Hệ thống thông báo không tìm thấy sản phẩm" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="600" y="420" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AveY9Wu94dkkHliqKaVr-24" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AveY9Wu94dkkHliqKaVr-23" target="AveY9Wu94dkkHliqKaVr-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="400" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="670" y="380" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="AveY9Wu94dkkHliqKaVr-26" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -93,9 +82,13 @@
         <mxCell id="AveY9Wu94dkkHliqKaVr-28" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="415" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AveY9Wu94dkkHliqKaVr-29" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AveY9Wu94dkkHliqKaVr-28" target="AveY9Wu94dkkHliqKaVr-23" edge="1">
+        <mxCell id="AveY9Wu94dkkHliqKaVr-29" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AveY9Wu94dkkHliqKaVr-28" target="AveY9Wu94dkkHliqKaVr-18" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="595" y="440" as="targetPoint" />
+            <mxPoint x="600" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="440" />
+              <mxPoint x="600" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AveY9Wu94dkkHliqKaVr-30" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AveY9Wu94dkkHliqKaVr-28" target="AveY9Wu94dkkHliqKaVr-13" edge="1">
