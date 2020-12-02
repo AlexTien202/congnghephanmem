@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T07:19:37.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="clyUdJ1Ap78zehaGzf68" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T07:20:35.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="YMpykhmO3tnTim8zUWta" version="13.10.4" type="github">
   <diagram id="A_67uv1NC1Ys6Gr1p7WP" name="Page-1">
     <mxGraphModel dx="1037" dy="5301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -138,7 +138,7 @@
         <mxCell id="XEDGl973lMnnYbXZeljx-1" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="800" y="-640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XEDGl973lMnnYbXZeljx-4" value="tìm thấy mã &#xa;phiếu đặt hàng hay không ?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
+        <mxCell id="XEDGl973lMnnYbXZeljx-4" value="Tìm thấy mã &#xa;phiếu đặt hàng hay không ?" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
           <mxGeometry x="695" y="-626" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XEDGl973lMnnYbXZeljx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FF5024;" parent="1" source="XEDGl973lMnnYbXZeljx-5" target="JnjW-EvSHOtnqTfR7Kk8-2" edge="1">
