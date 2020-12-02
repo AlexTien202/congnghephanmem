@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T09:14:26.011Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="x-CtLRHRM81SSQgb-_PP" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T09:31:19.253Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="xLtVMY6Zt0zgkkddBPd2" version="13.10.5" type="github">
   <diagram id="ZTOJwkZPnpjUPLu-FRdR" name="Page-1">
     <mxGraphModel dx="898" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,8 +51,8 @@
             <mxPoint x="460" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="phNYXS1P70ChCt9ce_XF-7" value="Nhân viên&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="290" width="160" height="20" as="geometry" />
+        <mxCell id="phNYXS1P70ChCt9ce_XF-7" value="Nhân viên,ca làm,chức vụ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="301" y="290" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="phNYXS1P70ChCt9ce_XF-11" value="D2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="phNYXS1P70ChCt9ce_XF-1" target="phNYXS1P70ChCt9ce_XF-2" edge="1">
           <mxGeometry x="-0.2" y="-20" relative="1" as="geometry">
