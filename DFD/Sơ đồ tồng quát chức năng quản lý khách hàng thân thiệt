@@ -1,70 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T09:27:05.038Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="e-biNvMz8ZRvsVXdDon_" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T09:27:32.723Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="M9NnEhK6VctGz7s97cTx" version="13.10.5" type="github">
   <diagram id="ke6Y1WnC_8NJenGVi1zA" name="Page-1">
     <mxGraphModel dx="898" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-1" value="D6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7E2jr2jRexu1fooCU2Pn-4" target="7E2jr2jRexu1fooCU2Pn-9">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-1" value="D6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7E2jr2jRexu1fooCU2Pn-4" target="7E2jr2jRexu1fooCU2Pn-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-2" value="D4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7E2jr2jRexu1fooCU2Pn-4">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-2" value="D4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7E2jr2jRexu1fooCU2Pn-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="422" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-3" value="D3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-3" value="D3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry x="0.2308" relative="1" as="geometry">
             <mxPoint x="340" y="230" as="targetPoint" />
             <mxPoint x="368" y="280" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-4" value="Quản lý nhân viên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-4" value="Quản lý khách hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-5" value="D1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.249;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7E2jr2jRexu1fooCU2Pn-6" target="7E2jr2jRexu1fooCU2Pn-4">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-5" value="D1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.249;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7E2jr2jRexu1fooCU2Pn-6" target="7E2jr2jRexu1fooCU2Pn-4" edge="1">
           <mxGeometry x="0.0669" y="-20" relative="1" as="geometry">
             <mxPoint x="-1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-6" value="Người quản lý&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-6" value="Người quản lý&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-7" value="D5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7E2jr2jRexu1fooCU2Pn-8" target="7E2jr2jRexu1fooCU2Pn-4">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-7" value="D5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7E2jr2jRexu1fooCU2Pn-8" target="7E2jr2jRexu1fooCU2Pn-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-8" value="Thiết bị nhập" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-8" value="Thiết bị nhập" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-9" value="Màn Hình" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-9" value="Màn Hình" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-10" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-10" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="280" as="sourcePoint" />
             <mxPoint x="460" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-11" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-11" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="320" as="sourcePoint" />
             <mxPoint x="460" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-12" value="Nhân viên&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-12" value="Khách hàng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="290" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-13" value="D2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7E2jr2jRexu1fooCU2Pn-4" target="7E2jr2jRexu1fooCU2Pn-6">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-13" value="D2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7E2jr2jRexu1fooCU2Pn-4" target="7E2jr2jRexu1fooCU2Pn-6" edge="1">
           <mxGeometry x="-0.2" y="-20" relative="1" as="geometry">
             <mxPoint x="450" y="140" as="sourcePoint" />
             <mxPoint x="359.88" y="173.27999999999997" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-14" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span&gt;D1:Truyền thông tin của khách hàng bao gồm :&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; mã khách hàng,họ và tên,địa chỉ,ngày sinh,số điện&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; thoại,cmnd,số tiền mua khách hàng&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;D2:Danh sách khách hàng,tổng số tiền mua của khách hàng&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;D3:Danh sách mã khách hàng ,tổng số tiền mua,số tiền mua khách hàng&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;D4:D1,tống số tiền mua của khách hàng&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;D5:Không có&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;D6:D3,D4&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-14" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span&gt;D1:Truyền thông tin của khách hàng bao gồm :&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; mã khách hàng,họ và tên,địa chỉ,ngày sinh,số điện&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; thoại,cmnd,số tiền mua khách hàng&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;D2:Danh sách khách hàng,tổng số tiền mua của khách hàng&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;D3:Danh sách mã khách hàng ,tổng số tiền mua,số tiền mua khách hàng&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;D4:D1,tống số tiền mua của khách hàng&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;D5:Không có&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;D6:D3,D4&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="10" y="320" width="320" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="7E2jr2jRexu1fooCU2Pn-15" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;Xử lý&lt;/h1&gt;&lt;p&gt;1.Kết nối dữ liệu&lt;/p&gt;&lt;p&gt;2.Đọc D3 từ bộ nhớ phụ&lt;/p&gt;&lt;p&gt;3.Nhận thông tin D1 từ người quản lí&lt;/p&gt;&lt;p&gt;4.Kiểm tra &quot;mã khách hàng&quot; có thuộc &quot;danh sách khách hàng&quot; không?&lt;/p&gt;&lt;p&gt;5.Dựa vào số tiền mua hàng của khách tính tổng số tiền của khách hàng&lt;/p&gt;&lt;p&gt;6.Nếu không hợp lí sẽ tới bước 8&lt;/p&gt;&lt;p&gt;7.Lưu xuống bộ nhớ phụ D4&lt;/p&gt;&lt;p&gt;8.Xuất D6 ra màn hình&lt;/p&gt;&lt;p&gt;9Đóng cơ sở dữ liệu&lt;/p&gt;&lt;p&gt;10.Kết thúc&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="7E2jr2jRexu1fooCU2Pn-15" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;Xử lý&lt;/h1&gt;&lt;p&gt;1.Kết nối dữ liệu&lt;/p&gt;&lt;p&gt;2.Đọc D3 từ bộ nhớ phụ&lt;/p&gt;&lt;p&gt;3.Nhận thông tin D1 từ người quản lí&lt;/p&gt;&lt;p&gt;4.Kiểm tra &quot;mã khách hàng&quot; có thuộc &quot;danh sách khách hàng&quot; không?&lt;/p&gt;&lt;p&gt;5.Dựa vào số tiền mua hàng của khách tính tổng số tiền của khách hàng&lt;/p&gt;&lt;p&gt;6.Nếu không hợp lí sẽ tới bước 8&lt;/p&gt;&lt;p&gt;7.Lưu xuống bộ nhớ phụ D4&lt;/p&gt;&lt;p&gt;8.Xuất D6 ra màn hình&lt;/p&gt;&lt;p&gt;9Đóng cơ sở dữ liệu&lt;/p&gt;&lt;p&gt;10.Kết thúc&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="480" y="344" width="277" height="306" as="geometry" />
         </mxCell>
       </root>
