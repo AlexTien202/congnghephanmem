@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T08:24:32.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="xDMxk4SWuoe46Glu9hWI" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T09:15:22.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="slYXN12jchww6W60jU2r" version="13.10.4" type="github">
   <diagram id="FOKc_-MNSqxZBK8NnF2Q" name="Page-1">
-    <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="568" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
           <mxGeometry x="680" y="350" width="510" height="180" as="geometry" />
         </mxCell>
         <mxCell id="V9J3mJEqcUWEWDewJBjM-36" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400 ; text-align: center&quot;&gt;D1: Thông tin đăng nhập ( người dùng nhập thông tin tài khoản và mật khẩu)&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;D5 : Thông tin đăng nhập(chỉ có trong một số yêu cầu đặc biệt)&lt;/span&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400 ; text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;D3 : Thông tin đăng nhập(tài khoản,mật khẩu) của người dùng&lt;/span&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400 ; text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;D4 : Dữ liệu cần thiết để kiểm tra tính hợp lệ của tài khoản , mật khẩu&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;D2 : Kết quả&amp;nbsp; đăng nhập thành công/thất bại&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="680" y="50" width="380" height="550" as="geometry" />
+          <mxGeometry x="680" y="50" width="380" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
