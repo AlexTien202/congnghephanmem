@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T06:33:38.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="veO_AREcR31VXYcAPMRW" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T06:34:37.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="P6CO5BmOMGJiVJ7MeMvr" version="13.10.5" type="github">
   <diagram id="if6Sdn1kFtCpr3i0YmzA" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vkjfwDhYMiqZPTfHPK-T-1" value="Hệ thống hiển thị giao diện chức năng của actor" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+        <mxCell id="vkjfwDhYMiqZPTfHPK-T-1" value="Hệ thống phân quyền và cho phép sử dụng chức năng của actor&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="275" y="480" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkjfwDhYMiqZPTfHPK-T-26" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
