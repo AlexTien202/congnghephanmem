@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T07:31:32.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="l1RKDB0v1OgQ5_LtUbM6" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T07:32:05.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Vlq3EllhNG2INIOrHEqX" version="13.10.4" type="github">
   <diagram id="A_67uv1NC1Ys6Gr1p7WP" name="Page-1">
     <mxGraphModel dx="1037" dy="5301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -243,9 +243,10 @@
           <mxGeometry x="1000" y="110" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pl1lt5nAl492x89F6YM_-30" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="1" source="Pl1lt5nAl492x89F6YM_-29" target="Pl1lt5nAl492x89F6YM_-33">
-          <mxGeometry x="-1" relative="1" as="geometry">
+          <mxGeometry x="-0.5385" y="-10" relative="1" as="geometry">
             <mxPoint x="1040" y="220" as="targetPoint" />
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pl1lt5nAl492x89F6YM_-31" value="Actor có muốn in phiếu hay không?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
