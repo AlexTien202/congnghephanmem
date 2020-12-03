@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T09:22:17.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="D9vblF0yIKyyvmc-8M0P" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T10:51:07.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="8l6u4lqPsIXmXF1owUWJ" version="13.10.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2485" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1120" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,7 +253,7 @@
         <mxCell id="LWm0dP5Df2k8MhbwlJwR-91" value="FK2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="LWm0dP5Df2k8MhbwlJwR-90" vertex="1">
           <mxGeometry width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWm0dP5Df2k8MhbwlJwR-92" value="ma_nhanvien" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="LWm0dP5Df2k8MhbwlJwR-90" vertex="1">
+        <mxCell id="LWm0dP5Df2k8MhbwlJwR-92" value="ma_nv" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="LWm0dP5Df2k8MhbwlJwR-90" vertex="1">
           <mxGeometry x="40" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LWm0dP5Df2k8MhbwlJwR-77" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LWm0dP5Df2k8MhbwlJwR-70" vertex="1">
