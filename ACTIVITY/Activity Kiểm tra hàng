@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T04:05:37.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="3qLyekDK75QVuNuNLWFQ" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T04:07:45.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="svnBcFcmuxYCtjgGOb_Y" version="13.10.6" type="github">
   <diagram id="A_67uv1NC1Ys6Gr1p7WP" name="Page-1">
     <mxGraphModel dx="866" dy="5203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -303,7 +303,7 @@
           <mxGeometry x="800" y="-640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t-y7rNpEE8LE_YPpkacF-2" value="Actor chọn &lt;br&gt;mã phiếu ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="739" y="-621" width="70" height="30" as="geometry" />
+          <mxGeometry x="757.5" y="-610" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t-y7rNpEE8LE_YPpkacF-3" value="Actor nhập tìm kiếm và tìm mã phiếu trên thanh tìm kiếm" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1100" y="-640" width="150" height="40" as="geometry" />
