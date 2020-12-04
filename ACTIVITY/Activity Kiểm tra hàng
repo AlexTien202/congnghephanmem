@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T05:03:26.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="uHT9UlSAGHRQut-ttOuu" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T05:04:57.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="g1RzqY-wWANh19nSRyqW" version="13.10.6" type="github">
   <diagram id="A_67uv1NC1Ys6Gr1p7WP" name="Page-1">
     <mxGraphModel dx="866" dy="5203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -230,14 +230,14 @@
           <mxGeometry x="690" y="-40" width="119" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pl1lt5nAl492x89F6YM_-24" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="927.5" y="480" width="30" height="30" as="geometry" />
+          <mxGeometry x="825" y="480" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pl1lt5nAl492x89F6YM_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Pl1lt5nAl492x89F6YM_-25" target="Pl1lt5nAl492x89F6YM_-24" edge="1">
+        <mxCell id="Pl1lt5nAl492x89F6YM_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Pl1lt5nAl492x89F6YM_-25" target="Pl1lt5nAl492x89F6YM_-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="840" y="360" />
-              <mxPoint x="932" y="360" />
+              <mxPoint x="840" y="480" />
             </Array>
+            <mxPoint x="840" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pl1lt5nAl492x89F6YM_-25" value="Hệ thống lưu vào csdl và in phiếu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
@@ -282,8 +282,7 @@
         <mxCell id="Pl1lt5nAl492x89F6YM_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Pl1lt5nAl492x89F6YM_-33" target="Pl1lt5nAl492x89F6YM_-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1029" y="360" />
-              <mxPoint x="943" y="360" />
+              <mxPoint x="1029" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
