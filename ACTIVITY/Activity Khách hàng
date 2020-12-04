@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T05:10:51.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="73HsdFLP7A1EpfCE2M7F" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T05:11:00.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="MfDWy2_Iu8-O_jwWzTO5" version="13.10.6" type="github">
   <diagram id="SRR2NSnF_1HDQzNLhurB" name="Page-1">
     <mxGraphModel dx="866" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,7 +205,7 @@
           <mxGeometry x="380" y="1590" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kD13pI6KfYF5gxpQnIKX-1" value="Actor muốn&lt;br&gt;&amp;nbsp;lưu không?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1400" width="80" height="30" as="geometry" />
+          <mxGeometry x="265.01" y="1450" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
