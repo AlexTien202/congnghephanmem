@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T06:21:35.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="pjN8A5hBxTJN2IK9CiqB" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T06:22:13.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="azowbCH30f7iP6-3IeF6" version="13.10.6" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="866" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -165,9 +165,6 @@
         </mxCell>
         <mxCell id="qMKcAFioH6dfLATZ30kz-3" value="Actor chọn danh mục phiếu đặt hàng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="-500" width="115" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qMKcAFioH6dfLATZ30kz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.074;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BmALPy2898BpjJ6mpnyW-150" target="BmALPy2898BpjJ6mpnyW-150">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
