@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T05:46:01.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2r52O7mTximWQdZjIS9K" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T05:55:48.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="jVorGCdRb6UbtQHDVZW1" version="13.10.8" type="github">
   <diagram id="LCCbUbC6lQRFHkbQcXVg" name="Page-1">
-    <mxGraphModel dx="866" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,7 +81,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="siJ-MSWNxWTp8sQO7iid-1" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BaQJcEeA8kbSTBuXsslT-21">
+        <mxCell id="siJ-MSWNxWTp8sQO7iid-1" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BaQJcEeA8kbSTBuXsslT-21" vertex="1" connectable="0">
           <mxGeometry x="-0.5018" y="-1" relative="1" as="geometry">
             <mxPoint x="-56" y="-1" as="offset" />
           </mxGeometry>
@@ -513,7 +513,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="siJ-MSWNxWTp8sQO7iid-3" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YOVOrLy2Mv9VxpKnFLMF-10">
+        <mxCell id="siJ-MSWNxWTp8sQO7iid-3" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YOVOrLy2Mv9VxpKnFLMF-10" vertex="1" connectable="0">
           <mxGeometry x="-0.295" y="1" relative="1" as="geometry">
             <mxPoint x="-36" y="1.5" as="offset" />
           </mxGeometry>
@@ -685,13 +685,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="siJ-MSWNxWTp8sQO7iid-2" value="Actor cập nhật&lt;br&gt;hàng hóa?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="siJ-MSWNxWTp8sQO7iid-2" value="Actor cập nhật&lt;br&gt;hàng hóa?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="790" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="siJ-MSWNxWTp8sQO7iid-4" value="Actor xem &lt;br&gt;lịch làm?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="800" width="70" height="30" as="geometry" />
+        <mxCell id="siJ-MSWNxWTp8sQO7iid-4" value="Actor xem &lt;br&gt;lịch sử nhập hàng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="800" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="siJ-MSWNxWTp8sQO7iid-5" value=" hợp lệ &#xa;không?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+        <mxCell id="siJ-MSWNxWTp8sQO7iid-5" value=" hợp lệ &#xa;không?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
           <mxGeometry x="760" y="1234" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
