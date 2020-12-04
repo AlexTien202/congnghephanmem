@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T05:06:28.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="fgLKNUOyFmjxkfMy6Fa2" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T05:54:02.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="Th29XDRqJ5yw12VRwvDh" version="13.10.8" type="github">
   <diagram id="hcpsYFY-EtTPAk7QqllA" name="Page-1">
-    <mxGraphModel dx="866" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,14 +257,11 @@
             <mxPoint x="830" y="650" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zdocqcU8MyIbkZN3XoTO-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.603;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF5208;" edge="1" parent="1" source="lQ1wv5oH7ecvdjWmshfI-32" target="zdocqcU8MyIbkZN3XoTO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lQ1wv5oH7ecvdjWmshfI-32" value="Actor chọn hàng hóa đã bán" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1125" y="600" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lQ1wv5oH7ecvdjWmshfI-36" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="lQ1wv5oH7ecvdjWmshfI-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="800" as="targetPoint" />
-            <mxPoint x="1195" y="730" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="lQ1wv5oH7ecvdjWmshfI-37" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1145" y="520" width="80" height="40" as="geometry" />
@@ -279,6 +276,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="zdocqcU8MyIbkZN3XoTO-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF5208;" edge="1" parent="1" source="lQ1wv5oH7ecvdjWmshfI-40" target="zdocqcU8MyIbkZN3XoTO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lQ1wv5oH7ecvdjWmshfI-40" value="Actor chọn hàng hóa tồn kho&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1275" y="600" width="120" height="40" as="geometry" />
         </mxCell>
@@ -288,11 +288,17 @@
             <mxPoint x="1324.4999999999998" y="559.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lQ1wv5oH7ecvdjWmshfI-44" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="lQ1wv5oH7ecvdjWmshfI-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="800" as="targetPoint" />
-            <mxPoint x="1340" y="729.9999999999998" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="zdocqcU8MyIbkZN3XoTO-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FF5208;" edge="1" parent="1" source="zdocqcU8MyIbkZN3XoTO-1" target="vhzsKEBuj56DlvQiUXtL-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zdocqcU8MyIbkZN3XoTO-1" value="Hệ thống hiển thị giao diện TK hàng hóa đã bán" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="690" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zdocqcU8MyIbkZN3XoTO-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FF5208;" edge="1" parent="1" source="zdocqcU8MyIbkZN3XoTO-2" target="vhzsKEBuj56DlvQiUXtL-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zdocqcU8MyIbkZN3XoTO-2" value="Hệ thống hiển thị giao diện TK hàng hóa tồn kho&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1267.5" y="740" width="135" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
