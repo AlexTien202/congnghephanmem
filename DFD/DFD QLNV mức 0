@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T12:44:42.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="TAnuwNU2W5a5zS4usCNE" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T13:54:51.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="3M4GTPvMHws_7sS-oZSI" version="13.10.8" type="github">
   <diagram id="FDEmWpOsS1IG__RYmN1O" name="Page-1">
-    <mxGraphModel dx="2370" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,25 +23,25 @@
             <mxGeometry x="720" y="40" width="200" height="38" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="NxQ93o7LDGB_Hb5vxlaf-27" value="2.4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+        <mxCell id="NxQ93o7LDGB_Hb5vxlaf-27" value="5.4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="800" y="710" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NxQ93o7LDGB_Hb5vxlaf-39" value="Hiện thị ca làm &lt;br&gt;việc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" parent="NxQ93o7LDGB_Hb5vxlaf-27" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NxQ93o7LDGB_Hb5vxlaf-29" value="2.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+        <mxCell id="NxQ93o7LDGB_Hb5vxlaf-29" value="5.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="440" y="160" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NxQ93o7LDGB_Hb5vxlaf-43" value="Tạo TTNV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" parent="NxQ93o7LDGB_Hb5vxlaf-29" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NxQ93o7LDGB_Hb5vxlaf-30" value="2.3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+        <mxCell id="NxQ93o7LDGB_Hb5vxlaf-30" value="5.3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="440" y="405" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NxQ93o7LDGB_Hb5vxlaf-38" value="Sắp xếp lịch làm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" parent="NxQ93o7LDGB_Hb5vxlaf-30" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NxQ93o7LDGB_Hb5vxlaf-32" value="2.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+        <mxCell id="NxQ93o7LDGB_Hb5vxlaf-32" value="5.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="1070" y="110" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NxQ93o7LDGB_Hb5vxlaf-42" value="Cập nhật TTNV&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" parent="NxQ93o7LDGB_Hb5vxlaf-32" vertex="1">
