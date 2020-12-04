@@ -1,87 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T08:46:08.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="z95FSmOJpxvWYn-U-JZh" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T13:58:07.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="YrsnUaQE2aSsLRshRurn" version="13.10.8" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
-    <mxGraphModel dx="1668" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1966" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="17472293e6e8944d-30">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="17472293e6e8944d-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.016;entryY=0.189;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="17472293e6e8944d-30" target="1fdf3b25b50cf41e-10">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.016;entryY=0.189;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="17472293e6e8944d-30" target="1fdf3b25b50cf41e-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="17472293e6e8944d-30" target="mFa-OfgSbh0qG1wgJOan-16">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="17472293e6e8944d-30" target="mFa-OfgSbh0qG1wgJOan-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17472293e6e8944d-30" value="Quản lý&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="60" y="90" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1fdf3b25b50cf41e-9" target="mFa-OfgSbh0qG1wgJOan-2">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1fdf3b25b50cf41e-9" target="mFa-OfgSbh0qG1wgJOan-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1fdf3b25b50cf41e-9" value="1.2" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+        <mxCell id="1fdf3b25b50cf41e-9" value="10.2" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="-190" y="230" width="150" height="97" as="geometry" />
         </mxCell>
         <mxCell id="1fdf3b25b50cf41e-10" value="Tạo mới danh mục sản phẩm" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="1fdf3b25b50cf41e-9" vertex="1">
           <mxGeometry y="26" width="150" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1fdf3b25b50cf41e-13" target="17472293e6e8944d-30">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1fdf3b25b50cf41e-13" target="17472293e6e8944d-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1fdf3b25b50cf41e-13" value="1.3" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+        <mxCell id="1fdf3b25b50cf41e-13" value="10.3" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="290" y="237.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="1fdf3b25b50cf41e-14" value="Tìm kiếm sản phẩm" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="1fdf3b25b50cf41e-13" vertex="1">
           <mxGeometry y="26" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1fdf3b25b50cf41e-17" target="17472293e6e8944d-30">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1fdf3b25b50cf41e-17" target="17472293e6e8944d-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1fdf3b25b50cf41e-17" value="1.1" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+        <mxCell id="1fdf3b25b50cf41e-17" value="10.1" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="50" y="230" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1fdf3b25b50cf41e-18" value="Xem danh mục sản phẩm" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="1fdf3b25b50cf41e-17" vertex="1">
           <mxGeometry y="26" width="140" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mFa-OfgSbh0qG1wgJOan-2" target="1fdf3b25b50cf41e-17">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mFa-OfgSbh0qG1wgJOan-2" target="1fdf3b25b50cf41e-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mFa-OfgSbh0qG1wgJOan-2" target="1fdf3b25b50cf41e-13">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mFa-OfgSbh0qG1wgJOan-2" target="1fdf3b25b50cf41e-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-2" value="Sản phẩm" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-2" value="Sản phẩm" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
           <mxGeometry x="-40" y="410" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-8" value="Thông tin sản phẩm tìm kiếm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-8" value="Thông tin sản phẩm tìm kiếm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="90" width="160" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-10" value="Danh mục sản phẩm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-10" value="Danh mục sản phẩm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="177" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-11" value="Danh mục sản phẩm mới" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-11" value="Danh mục sản phẩm mới" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-110" y="177" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mFa-OfgSbh0qG1wgJOan-11" target="mFa-OfgSbh0qG1wgJOan-11">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="mFa-OfgSbh0qG1wgJOan-11" target="mFa-OfgSbh0qG1wgJOan-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-15" value="1.4" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-15" value="10.4" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="-220" y="14" width="150" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-16" value="Cập nhật danh mục sản phẩm" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="mFa-OfgSbh0qG1wgJOan-15">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-16" value="Cập nhật danh mục sản phẩm" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="mFa-OfgSbh0qG1wgJOan-15" vertex="1">
           <mxGeometry y="26" width="150" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-18" value="Thông tin cập nhật sản phẩm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-18" value="Thông tin cập nhật sản phẩm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-45" y="60" width="110" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-19" value="Sản phẩm" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-19" value="Sản phẩm" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
           <mxGeometry x="-400" y="90" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mFa-OfgSbh0qG1wgJOan-16" target="mFa-OfgSbh0qG1wgJOan-19">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mFa-OfgSbh0qG1wgJOan-16" target="mFa-OfgSbh0qG1wgJOan-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mFa-OfgSbh0qG1wgJOan-24" value="Sản phẩm đáp ứng tìm kiếm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mFa-OfgSbh0qG1wgJOan-24" value="Sản phẩm đáp ứng tìm kiếm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="177" width="110" height="23" as="geometry" />
         </mxCell>
       </root>

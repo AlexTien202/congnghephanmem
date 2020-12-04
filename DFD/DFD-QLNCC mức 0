@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T08:17:53.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="PVvB878hw_qncMPAgaYv" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T13:57:36.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="r-jzGcsMGcvQYPzPfyr1" version="13.10.8" type="github">
   <diagram id="CazbmHaNj5xHQsnyjhl3" name="Page-1">
-    <mxGraphModel dx="568" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vbs_Vf9ybg9Sg6Uj3vyT-18" value="3.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+        <mxCell id="vbs_Vf9ybg9Sg6Uj3vyT-18" value="9.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="150" y="240" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vbs_Vf9ybg9Sg6Uj3vyT-25" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Tạo TTNCC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="vbs_Vf9ybg9Sg6Uj3vyT-18" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vbs_Vf9ybg9Sg6Uj3vyT-21" value="3.3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+        <mxCell id="vbs_Vf9ybg9Sg6Uj3vyT-21" value="9.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="500" y="560" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vbs_Vf9ybg9Sg6Uj3vyT-33" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Tra cứu TT NCC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="vbs_Vf9ybg9Sg6Uj3vyT-21" vertex="1">
@@ -29,7 +29,7 @@
         <mxCell id="vbs_Vf9ybg9Sg6Uj3vyT-24" value="Quản lí" style="whiteSpace=wrap;html=1;align=center;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="480" y="240" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vbs_Vf9ybg9Sg6Uj3vyT-16" value="3.3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+        <mxCell id="vbs_Vf9ybg9Sg6Uj3vyT-16" value="9.3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="850" y="240" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vbs_Vf9ybg9Sg6Uj3vyT-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Xem lịch sử nhập &lt;br&gt;hàng của NCC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="vbs_Vf9ybg9Sg6Uj3vyT-16" vertex="1">
