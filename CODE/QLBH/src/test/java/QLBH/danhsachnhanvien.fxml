@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.MenuButton?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<TabPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="680.0" prefWidth="1193.0" tabClosingPolicy="UNAVAILABLE" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="QLBH.DSNVController">
+  <tabs>
+    <Tab closable="false" text="QL Nhân viên">
+         <content>
+            <AnchorPane prefHeight="586.0" prefWidth="1137.0">
+               <children>
+                  <Label alignment="CENTER" layoutX="101.0" layoutY="41.0" prefHeight="36.0" prefWidth="303.0" text="CỬA HÀNG TIỆN LỢI SGU">
+                     <font>
+                        <Font name="System Bold Italic" size="24.0" />
+                     </font>
+                  </Label>
+                  <ImageView fitHeight="89.0" fitWidth="124.0" layoutX="440.0" layoutY="15.0">
+                     <image>
+                        <Image url="file:/C:/Users/Admin/Desktop/ảnh%20chế/unnamed.png" />
+                     </image>
+                  </ImageView>
+                  <ComboBox layoutX="178.0" layoutY="77.0" prefWidth="150.0" />
+                  <TextField fx:id="search" layoutX="126.0" layoutY="135.0" prefHeight="30.0" prefWidth="174.0" />
+                  <Label layoutX="25.0" layoutY="134.0" prefHeight="30.0" prefWidth="114.0" text="Tìm kiếm nhân viên">
+                     <font>
+                        <Font size="10.0" />
+                     </font>
+                  </Label>
+                  <MenuButton layoutX="311.0" layoutY="135.0" mnemonicParsing="false" prefHeight="32.0" prefWidth="72.0" text="Bộ lọc">
+                    <items>
+                      <MenuItem mnemonicParsing="false" text="Action 1" />
+                      <MenuItem mnemonicParsing="false" text="Action 2" />
+                    </items>
+                  </MenuButton>
+                  <Button fx:id="idaddNV" alignment="BASELINE_LEFT" layoutX="391.0" layoutY="134.0" mnemonicParsing="false" onAction="#ThemNV" prefHeight="34.0" prefWidth="123.0" text="Thêm nhân viên" />
+                  <ImageView fitHeight="29.0" fitWidth="25.0" layoutX="489.0" layoutY="136.0">
+                     <image>
+                        <Image url="file:/C:/Users/Admin/Desktop/ảnh%20chế/addperson.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="29.0" fitWidth="30.0" layoutX="1128.0" layoutY="14.0">
+                     <image>
+                        <Image url="file:/C:/Users/Admin/Desktop/ảnh%20chế/download.png" />
+                     </image>
+                  </ImageView>
+                  <Label layoutX="1110.0" layoutY="40.0" prefHeight="23.0" prefWidth="79.0" text="Lê Hoàng Tân">
+                     <font>
+                        <Font size="10.0" />
+                     </font></Label>
+                  <TableView fx:id="tableNV" layoutX="57.0" layoutY="179.0" prefHeight="393.0" prefWidth="576.0">
+                    <columns>
+                      <TableColumn fx:id="hovaten" prefWidth="115.0" text="Họ và tên" />
+                        <TableColumn fx:id="ngaysinh" minWidth="0.0" prefWidth="81.0" text="Năm sinh" />
+                        <TableColumn fx:id="chucvu" prefWidth="91.0" text="Chức vụ" />
+                        <TableColumn fx:id="sdt" minWidth="0.0" prefWidth="111.0" text="Số điện thoại" />
+                        <TableColumn fx:id="cmnd" minWidth="0.0" prefWidth="88.0" text="CMND" />
+                        <TableColumn fx:id="diachi" minWidth="0.0" prefWidth="88.0" text="Địa chỉ" />
+                    </columns>
+                  </TableView>
+                  <Button fx:id="idreload" layoutX="576.0" layoutY="153.0" mnemonicParsing="false" onAction="#reload" prefHeight="21.0" prefWidth="53.0" text="reload" />
+                  <ImageView fx:id="imgnhanvien" fitHeight="110.0" fitWidth="221.0" layoutX="802.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true" />
+                  <Label layoutX="698.0" layoutY="223.0" prefHeight="26.0" prefWidth="76.0" text="Họ và tên :" />
+                  <Label layoutX="748.0" layoutY="14.0" prefHeight="37.0" prefWidth="337.0" text="HỒ SƠ CÁ NHÂN NHÂN VIÊN">
+                     <font>
+                        <Font size="24.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="698.0" layoutY="266.0" prefHeight="26.0" prefWidth="76.0" text="Năm sinh : " />
+                  <Label layoutX="698.0" layoutY="314.0" prefHeight="26.0" prefWidth="76.0" text="Chức vụ : " />
+                  <Label layoutX="698.0" layoutY="364.0" prefHeight="26.0" prefWidth="76.0" text="SĐT " />
+                  <Label layoutX="698.0" layoutY="419.0" prefHeight="26.0" prefWidth="76.0" text="CMND" />
+                  <Label layoutX="698.0" layoutY="471.0" prefHeight="26.0" prefWidth="76.0" text="Địa chỉ : " />
+                  <TextField fx:id="hovaten_nv" editable="false" layoutX="802.0" layoutY="219.0" prefHeight="33.0" prefWidth="241.0" />
+                  <TextField fx:id="ns_nv" editable="false" layoutX="802.0" layoutY="262.0" prefHeight="33.0" prefWidth="241.0" />
+                  <TextField fx:id="cv_nv" editable="false" layoutX="802.0" layoutY="310.0" prefHeight="33.0" prefWidth="241.0" />
+                  <TextField fx:id="sdt_nv" editable="false" layoutX="802.0" layoutY="360.0" prefHeight="33.0" prefWidth="241.0" />
+                  <TextField fx:id="cmnd_nv" editable="false" layoutX="802.0" layoutY="415.0" prefHeight="33.0" prefWidth="241.0" />
+                  <TextField fx:id="diachi_nv" editable="false" layoutX="802.0" layoutY="467.0" prefHeight="33.0" prefWidth="241.0" />
+                  <Button layoutX="1033.0" layoutY="77.0" mnemonicParsing="false" onAction="#XoaNhanvien" text="Xóa" fx:id="xoa_nv" />
+                  <Button fx:id="capnhat_nv" layoutX="1085.0" layoutY="77.0" mnemonicParsing="false" onAction="#CapNhatNhanvien" text="Cập nhật" />
+                  <Label layoutX="698.0" layoutY="180.0" prefHeight="26.0" prefWidth="76.0" text="id_nv" />
+                  <TextField fx:id="id_nv" editable="false" layoutX="802.0" layoutY="180.0" prefHeight="20.0" prefWidth="52.0" />
+                  <Button fx:id="luucapnhat" layoutX="878.0" layoutY="541.0" mnemonicParsing="false" onAction="#luucapnhat" prefHeight="29.0" prefWidth="71.0" text="Lưu" visible="false" />
+                  <Button fx:id="reset" layoutX="1044.0" layoutY="141.0" mnemonicParsing="false" onAction="#Reset" text="reset to default" visible="false" />
+               </children>
+            </AnchorPane>
+         </content></Tab>
+    <Tab text="QL Nhà cung cấp" />
+      <Tab text="QL Khách hàng" />
+  </tabs>
+</TabPane>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="ap" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="474.0" prefWidth="619.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="QLBH.ThemNVController">
+   <children>
+      <Label layoutX="219.0" layoutY="89.0" prefHeight="27.0" prefWidth="96.0" text="Họ và tên  ">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="219.0" layoutY="140.0" prefHeight="27.0" prefWidth="96.0" text="Năm sinh ">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="219.0" layoutY="187.0" prefHeight="27.0" prefWidth="96.0" text="Chức vụ ">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="219.0" layoutY="269.0" prefHeight="27.0" prefWidth="126.0" text="Số điện thoại  ">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="tfhovaten" layoutX="333.0" layoutY="89.0" prefHeight="40.0" prefWidth="232.0" />
+      <TextField fx:id="tfns" layoutX="332.0" layoutY="142.0" prefHeight="25.0" prefWidth="232.0" />
+      <TextField fx:id="tfsdt" layoutX="333.0" layoutY="270.0" prefHeight="25.0" prefWidth="232.0" />
+      <ComboBox fx:id="tfcv" layoutX="332.0" layoutY="186.0" prefHeight="27.0" prefWidth="232.0" />
+      <Label layoutX="219.0" layoutY="315.0" prefHeight="22.0" prefWidth="96.0" text="CMND">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="tfcmnd" layoutX="331.0" layoutY="315.0" prefHeight="27.0" prefWidth="232.0" />
+      <Label layoutX="219.0" layoutY="363.0" prefHeight="22.0" prefWidth="96.0" text="Địa chỉ ">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="tfdc" layoutX="332.0" layoutY="357.0" prefHeight="40.0" prefWidth="232.0" />
+      <ImageView fx:id="imgview" fitHeight="169.0" fitWidth="176.0" layoutX="27.0" layoutY="88.0" pickOnBounds="true" preserveRatio="true" />
+      <Button fx:id="addImage" layoutX="56.0" layoutY="303.0" mnemonicParsing="false" onAction="#AddImage" text="Thêm ảnh đại diện " />
+      <ButtonBar layoutX="252.0" layoutY="405.0" prefHeight="40.0" prefWidth="224.0">
+        <buttons>
+          <Button fx:id="add" mnemonicParsing="false" onAction="#ThemNVButton" prefHeight="25.0" prefWidth="101.0" text="Thêm " />
+            <Button fx:id="huy" mnemonicParsing="false" onAction="#HuyThemNV" text="Hủy" />
+        </buttons>
+      </ButtonBar>
+      <Label layoutX="203.0" layoutY="19.0" prefHeight="40.0" prefWidth="224.0" text="THÊM NHÂN  VIÊN ">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="219.0" layoutY="62.0" prefHeight="27.0" prefWidth="96.0" text="id">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="tfid" layoutX="331.0" layoutY="56.0" prefHeight="25.0" prefWidth="232.0" />
+      <Label layoutX="219.0" layoutY="231.0" prefHeight="27.0" prefWidth="96.0" text="Giới tính ">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="tfgt" layoutX="333.0" layoutY="231.0" prefHeight="27.0" prefWidth="232.0" />
+   </children>
+</AnchorPane>
