@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T13:36:47.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="hdSo_pdhNI5enr7F6nwy" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-01T13:43:31.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="TuGCCSXQCYUx9SfYXeZD" version="14.6.9" type="github">
   <diagram id="fdc6eDLMhxLBkBlxojB7" name="Page-1">
-    <mxGraphModel dx="1673" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1739,14 +1739,23 @@
         <mxCell id="HUEIYhogbtnbdsZGibSk-201" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HUEIYhogbtnbdsZGibSk-202" target="HUEIYhogbtnbdsZGibSk-203">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HUEIYhogbtnbdsZGibSk-202" value="d(alert),d(hovatennv),d(ngaysinh)&lt;br&gt;d(chucvunv),d(gioitinhnv),&lt;br&gt;d(nvl),d(sdtnv),d(cmndnv),&lt;br&gt;d(diachinv),d(session),d(nv2)&lt;br&gt;&lt;br&gt;u(alert),u(session),u(sessopn),u(nv2).&lt;br&gt;u(idnv),u(nv2),u(hovatennv),u(nv2)&lt;br&gt;u(chucvunv),u(nv2),u(gioitinhnv)&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1276" y="7565" width="200" height="200" as="geometry" />
+        <mxCell id="HUEIYhogbtnbdsZGibSk-202" value="d(alert),d(hovatennv),d(ngaysinh)&lt;br&gt;d(chucvunv),d(gioitinhnv),&lt;br&gt;d(nvl),d(sdtnv),d(cmndnv),&lt;br&gt;d(diachinv),d(session),d(nv2)&lt;br&gt;&lt;br&gt;u(alert),u(session),u(session),u(nv2).&lt;br&gt;u(idnv),u(nv2),u(hovatennv),u(nv2)&lt;br&gt;u(chucvunv),u(nv2),u(gioitinhnv),u(nv2),&lt;br&gt;u(diachinv),u(nv2),u(ngaysinhnv),&lt;br&gt;u(nv2),u(sdtnv),u(nv2),u(cmndnv)&lt;br&gt;u(session),u(nv2)&lt;br&gt;u(alert),u(alert)&lt;br&gt;u(session)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="7565" width="265" height="265" as="geometry" />
         </mxCell>
         <mxCell id="HUEIYhogbtnbdsZGibSk-203" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1358.75" y="7840" width="30" height="30" as="geometry" />
+          <mxGeometry x="1357.5" y="7880" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HUEIYhogbtnbdsZGibSk-204" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HUEIYhogbtnbdsZGibSk-205" target="HUEIYhogbtnbdsZGibSk-202">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HUEIYhogbtnbdsZGibSk-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HUEIYhogbtnbdsZGibSk-205" target="HUEIYhogbtnbdsZGibSk-203">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="7500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1610" y="7495" />
+              <mxPoint x="1610" y="7895" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HUEIYhogbtnbdsZGibSk-205" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1348.75" y="7470" width="50" height="50" as="geometry" />
