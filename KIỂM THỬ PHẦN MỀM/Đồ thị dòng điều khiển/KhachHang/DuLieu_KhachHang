@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-02T07:45:11.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="ojyD5ve6Yvix3epPtNoZ" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-02T07:47:40.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="oG4f4FfRzwuI3Jg-2bR_" version="14.6.9" type="github">
   <diagram id="G8aECHXRTVu7qZzCGXtD" name="Page-1">
     <mxGraphModel dx="1350" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1914,7 +1914,7 @@
         <mxCell id="7dRc_Koqk81vxZXcddGh-587" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2092.25" y="4560" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7dRc_Koqk81vxZXcddGh-588" value="Kiểm thử biến nv&lt;br&gt;P1 : ~duuk&lt;br&gt;Kết luận : Không có bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="7dRc_Koqk81vxZXcddGh-588" value="Kiểm thử biến kh&lt;br&gt;P1 : ~duuk&lt;br&gt;Kết luận : Không có bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1924.5699999999997" y="4061" width="117.3" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7dRc_Koqk81vxZXcddGh-589" value="k(all)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
