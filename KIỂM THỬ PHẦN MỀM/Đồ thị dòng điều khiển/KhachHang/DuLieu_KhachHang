@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-02T07:47:40.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="oG4f4FfRzwuI3Jg-2bR_" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T14:30:25.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="o4OsGUe88VKETaE3M6iA" version="14.6.9" type="github">
   <diagram id="G8aECHXRTVu7qZzCGXtD" name="Page-1">
-    <mxGraphModel dx="1350" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1003,7 +1003,7 @@
         <mxCell id="7dRc_Koqk81vxZXcddGh-350" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1757.72" y="2810" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7dRc_Koqk81vxZXcddGh-351" value="Kiểm thử biến&amp;nbsp; khachHang&lt;br&gt;P1 : ~k&lt;br&gt;P2 : ~duk&lt;br&gt;Kết luận :Có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="7dRc_Koqk81vxZXcddGh-351" value="Kiểm thử biến&amp;nbsp; khachHang&lt;br&gt;&lt;br&gt;P1: ~duk&lt;br&gt;P2 : ~duk&lt;br&gt;Kết luận :Không có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1609.37" y="2130" width="117.3" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7dRc_Koqk81vxZXcddGh-352" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;" parent="1" vertex="1">
@@ -1091,7 +1091,7 @@
         <mxCell id="7dRc_Koqk81vxZXcddGh-373" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="2202.52" y="2790" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7dRc_Koqk81vxZXcddGh-374" value="Kiểm thử biến makh&lt;br&gt;P1 : ~k&lt;br&gt;P2 : ~duk&lt;br&gt;Kết luận :Có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="7dRc_Koqk81vxZXcddGh-374" value="Kiểm thử biến makh&lt;br&gt;&lt;br&gt;P1 : ~duk&lt;br&gt;P2 : ~duk&lt;br&gt;Kết luận :Không có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2054.17" y="2110" width="117.3" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7dRc_Koqk81vxZXcddGh-375" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;" parent="1" vertex="1">
@@ -1179,7 +1179,7 @@
         <mxCell id="7dRc_Koqk81vxZXcddGh-396" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1300.0699999999997" y="3760" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7dRc_Koqk81vxZXcddGh-397" value="Kiểm thử biến session&lt;br&gt;P1 : ~k&lt;br&gt;P2 : ~duuk&lt;br&gt;Kết luận :Có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="7dRc_Koqk81vxZXcddGh-397" value="Kiểm thử biến session&lt;br&gt;P1: ~duuk&lt;br&gt;p2 : ~duuk&lt;br&gt;Kết luận :Không có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1151.7199999999998" y="3080" width="117.3" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7dRc_Koqk81vxZXcddGh-398" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;" parent="1" vertex="1">
@@ -1267,7 +1267,7 @@
         <mxCell id="7dRc_Koqk81vxZXcddGh-419" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="2649.87" y="2790" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7dRc_Koqk81vxZXcddGh-420" value="Kiểm thử biến tableHD&lt;br&gt;P1 : ~k&lt;br&gt;P2 : ~duuk&lt;br&gt;P3 : ~duk&lt;br&gt;Kết luận :Có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="7dRc_Koqk81vxZXcddGh-420" value="Kiểm thử biến tableHD&lt;br&gt;P1 : ~duuk&lt;br&gt;P2 : ~duk&lt;br&gt;Kết luận :Không có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2501.52" y="2110" width="117.3" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7dRc_Koqk81vxZXcddGh-421" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;" parent="1" vertex="1">
@@ -1355,7 +1355,7 @@
         <mxCell id="7dRc_Koqk81vxZXcddGh-442" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1757.7199999999998" y="3750" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7dRc_Koqk81vxZXcddGh-443" value="Kiểm thử biến root&lt;br&gt;P1 : ~k&lt;br&gt;P2 : ~duk&lt;br&gt;Kết luận :Có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="7dRc_Koqk81vxZXcddGh-443" value="Kiểm thử biến root&lt;br&gt;P1 : ~duk&lt;br&gt;P2 : ~duk&lt;br&gt;Kết luận :Có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1609.37" y="3070" width="117.3" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7dRc_Koqk81vxZXcddGh-444" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;" parent="1" vertex="1">
@@ -1443,7 +1443,7 @@
         <mxCell id="7dRc_Koqk81vxZXcddGh-465" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="2258.27" y="3770" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7dRc_Koqk81vxZXcddGh-466" value="Kiểm thử biến khachHangJoin&lt;br&gt;P1 : ~k&lt;br&gt;P2 : ~duuk&lt;br&gt;Kết luận :Có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="7dRc_Koqk81vxZXcddGh-466" value="Kiểm thử biến khachHangJoin&lt;br&gt;P1 : ~duuk&lt;br&gt;P2 : ~duuk&lt;br&gt;Kết luận :Không có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2109.92" y="3090" width="117.3" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7dRc_Koqk81vxZXcddGh-467" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;" parent="1" vertex="1">
@@ -1531,7 +1531,7 @@
         <mxCell id="7dRc_Koqk81vxZXcddGh-488" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="2763.77" y="3760" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7dRc_Koqk81vxZXcddGh-489" value="Kiểm thử biến builder&lt;br&gt;P1 : ~k&lt;br&gt;P2 : ~duuk&lt;br&gt;Kết luận :Có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="7dRc_Koqk81vxZXcddGh-489" value="Kiểm thử biến builder&lt;br&gt;P1 ; ~duk&lt;br&gt;P2 : ~duk&lt;br&gt;Kết luận :Không có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2615.42" y="3080" width="117.3" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7dRc_Koqk81vxZXcddGh-490" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;" parent="1" vertex="1">
@@ -1619,7 +1619,7 @@
         <mxCell id="7dRc_Koqk81vxZXcddGh-511" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="3265.32" y="3740" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7dRc_Koqk81vxZXcddGh-512" value="Kiểm thử biến query&lt;br&gt;P1 : ~k&lt;br&gt;P2 : ~duuk&lt;br&gt;Kết luận :Có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="7dRc_Koqk81vxZXcddGh-512" value="Kiểm thử biến query&lt;br&gt;P1 : ~duk&lt;br&gt;P2 : ~duk&lt;br&gt;Kết luận :Có trường hợp bất thường" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3116.9700000000003" y="3060" width="117.3" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7dRc_Koqk81vxZXcddGh-513" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;" parent="1" vertex="1">
@@ -2082,7 +2082,7 @@
         <mxCell id="7dRc_Koqk81vxZXcddGh-637" value="k(all)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2180.3" y="963" width="65.5" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="5uf56l5cU6nSo0CiYIbL-1" value="k(all)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5uf56l5cU6nSo0CiYIbL-1" value="k(all)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1816.1699999999998" y="3859.5" width="65.5" height="27" as="geometry" />
         </mxCell>
       </root>
